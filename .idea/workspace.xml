@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="047dd1b7-033b-4ba5-8691-0a29ec1c2517" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/nvmc.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/word2vec_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Levenshtein/StringMatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Levenshtein/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Levenshtein/_levenshtein.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Levenshtein/_levenshtein.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/Levenshtein/_levenshtein.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim-4.0.1.dist-info/top_level.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/_matutils.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/_matutils.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/_matutils.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/_mmreader.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/_mmreader.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/_mmreader.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/bleicorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/csvcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/hashdictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/indexedcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/lowcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/malletcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/mmcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/sharded_corpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/svmlightcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/textcorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/ucicorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/corpora/wikicorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/downloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/interfaces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/matutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/_fasttext_bin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/atmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/basemodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/callbacks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/coherencemodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_corpusfile.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_corpusfile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_corpusfile.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/doc2vec_inner.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fast_line_sentence.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_corpusfile.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_corpusfile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_corpusfile.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_inner.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_inner.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_inner.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/fasttext_inner.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/hdpmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/keyedvectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lda_dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lda_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldamodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldamulticore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/ldaseqmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/logentropy_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsi_dispatcher.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsi_worker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/lsimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/nmf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/nmf_pgd.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/nmf_pgd.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/nmf_pgd.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/normmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/phrases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/poincare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/rpmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/stdint_wrapper.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/tfidfmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/translation_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/voidptr.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_corpusfile.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_corpusfile.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_corpusfile.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_corpusfile.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.cp38-win_amd64.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.pxd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/models/word2vec_inner.pyx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/nosy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/porter.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/parsing/preprocessing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/benchmark.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/glove2word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wiki_online_nodebug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/make_wikicorpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/package_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/segment_wiki.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/word2vec2tensor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/scripts/word2vec_standalone.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/annoy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/docsim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/levenshtein.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/nmslib.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/similarities/termsim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/basetmtests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/simspeed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/simspeed2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/svd_error.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_aggregation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_atmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_big.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora_dictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_corpora_hashdictionary.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/DTM/ldaseq_3_0_1_model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/DTM/sstats_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/EN.1-10.cbow1_wind5_hs0_neg10_size300_smpl1e-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/IT.1-10.cbow1_wind5_hs0_neg10_size300_smpl1e-05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/OPUS_en_it_europarl_train_one2ten.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/PathLineSentences/1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/PathLineSentences/2.txt.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/alldata-id-10.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/atmodel_3_0_1_model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/atmodel_3_0_1_model.expElogbeta.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/atmodel_3_0_1_model.id2word" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/atmodel_3_0_1_model.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/bgwiki-latest-pages-articles-shortened.xml.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/compatible-hash-true.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/cp852_fasttext.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/crime-and-punishment.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/crime-and-punishment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/crime-and-punishment.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/d2v-lee-v0.13.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/doc2vec_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/doc2vec_old_sep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/doc2vec_old_sep.syn0_lockf.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/doc2vec_old_sep.syn1neg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/dtm_test.dict" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/dtm_test.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/enwiki-latest-pages-articles1.xml-p000000010p000030302-shortened.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/enwiki-table-markup.xml.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/euclidean_vectors.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/fasttext_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/fasttext_old_sep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/fasttext_old_sep.syn0_lockf.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/fasttext_old_sep.syn1neg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/fb-ngrams.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ft_kv_3.6.0.model.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ft_model_2.3.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/head500.noblanks.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/head500.noblanks.cor.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/head500.noblanks.cor_tfidf.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/head500.noblanks.cor_wordids.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/high_precision.kv.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/high_precision.kv.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/large_tag_doc_10_iter50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lda_3_0_1_model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lda_3_0_1_model.expElogbeta.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lda_3_0_1_model.id2word" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lda_3_0_1_model.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_2_7" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_2_7.expElogbeta.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_2_7.id2word" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_2_7.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_3_5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_3_5.expElogbeta.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_3_5.id2word" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldamodel_python_3_5.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldavowpalwabbit.dict.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/ldavowpalwabbit.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lee.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lee_background.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lee_fasttext" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lee_fasttext.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lee_fasttext.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/lee_fasttext_new.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/miIslita.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/mini_newsgroup" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/nmf_model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/non_ascii_fasttext.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.12.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.12.1.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.12.2.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.12.3.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.12.4.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.13.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.13.1.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.13.2.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.13.3.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_0.13.4.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_1.0.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_1.0.1.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_2.0.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_2.1.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_2.2.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_2.3.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_3.0.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_3.1.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_3.2.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_3.3.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_d2v_models/d2v_3.4.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_keyedvectors_320.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.12.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.12.1.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.12.2.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.12.3.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.12.4.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.13.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.13.1.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.13.2.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.13.3.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_0.13.4.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_1.0.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_1.0.1.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_2.0.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_2.1.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_2.2.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_2.3.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_3.0.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_3.1.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_3.2.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_3.3.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/old_w2v_models/w2v_3.4.0.mdl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/pang_lee_polarity.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/pang_lee_polarity_fasttext.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/pang_lee_polarity_fasttext.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/para2para_text1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/para2para_text2.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phraser-3.6.0.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phraser-no-common-terms.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phraser-no-scoring.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phraser-scoring-str.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phrases-3.6.0.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phrases-no-common-terms.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phrases-no-scoring.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/phrases-scoring-str.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/poincare_cp852.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/poincare_hypernyms.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/poincare_hypernyms_large.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/poincare_test_3.4.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/poincare_utf8.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/poincare_vectors.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/pre_0_13_2_model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/pre_0_13_2_model.state" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/pretrained.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/questions-words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/reproduce.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/reproduce.dat.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/similarities0-1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/simlex999.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/small_tag_doc_5_iter50" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_corpus_ok.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_corpus_small.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_glove.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_corrupt.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_no_index.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_no_index.mm.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_no_index.mm.gz" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_overflow.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_with_index.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/test_mmcorpus_with_index.mm.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.blei" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.blei.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.blei.vocab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.low" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.low.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.mallet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.mallet.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.mm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.mm.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.svmlight" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.svmlight.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.uci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.uci.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.uci.vocab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/testcorpus.xml.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/tfidf_model.tst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/tfidf_model.tst.bz2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/tfidf_model_3_2.tst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/toy-data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/toy-model-pretrained.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/toy-model.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/toy-model.vec" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/varembed_lee_subcorpus.cor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/varembed_morfessor.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/varembed_vectors.pkl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/w2v-lee-v0.12.0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/w2v_keyedvectors_load_test.modeldata" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/w2v_keyedvectors_load_test.vocab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_3.3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_old" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_old_sep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_old_sep.syn0_lockf.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_old_sep.syn1neg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_py2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_py3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_py3_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py2.neg_labels.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py2.syn0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py2.syn0_lockf.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py2.syn1neg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3.neg_labels.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3.syn0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3.syn0_lockf.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3.syn1neg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3_4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3_4.neg_labels.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3_4.syn0.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3_4.syn0_lockf.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/word2vec_pre_kv_sep_py3_4.syn1neg.npy" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_data/wordsim353.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_datatype.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_direct_confirmation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_doc2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_dtm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_fasttext.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_glove2word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_hdpmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_indirect_confirmation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_keyedvectors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lda_callback.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldamodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_ldaseqmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_logentropy_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_lsimodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_matutils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_miislita.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_nmf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_normmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_parsing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_phrases.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_poincare.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_probability_estimation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_rpmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_scripts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_sharded_corpus.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_similarities.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_similarity_metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_text_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_tfidfmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_tmdiff.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_translation_matrix.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/test_word2vec.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/test/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/aggregation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/direct_confirmation_measure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/indirect_confirmation_measure.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/probability_estimation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/segmentation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/topic_coherence/text_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/gensim/utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/entry_points.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/namespace_packages.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/levenshtein-0.12.0.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chatbot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chatbot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/create_word2vec_model.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1u5a5wYNcWbgGTxNqIcNTDhWbRQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kimso\workspace\chatbot" />
+      <recent name="C:\Users\kimso\workspace\chatbot\data" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="word2vec_model" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="chatbot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/word2vec_model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.word2vec_model" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="047dd1b7-033b-4ba5-8691-0a29ec1c2517" name="Default Changelist" comment="" />
+      <created>1623957729770</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1623957729770</updated>
+      <workItem from="1623957732725" duration="2849000" />
+      <workItem from="1624092367313" duration="73000" />
+      <workItem from="1624119444644" duration="3775000" />
+      <workItem from="1624152181304" duration="3292000" />
+      <workItem from="1624167910488" duration="1289000" />
+      <workItem from="1624169265986" duration="2747000" />
+      <workItem from="1624192874668" duration="2938000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/chatbot$word2vec_model.coverage" NAME="word2vec_model Coverage Results" MODIFIED="1624197602211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+  </component>
+</project>
